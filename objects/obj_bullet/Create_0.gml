@@ -1,0 +1,1 @@
+move_towards_point(mouse_x, mouse_y, bulletSpeed); //try updating the bullet speed on this event
